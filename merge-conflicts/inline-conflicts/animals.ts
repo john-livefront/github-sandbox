@@ -1,7 +1,7 @@
 // Simple array with one animal per letter of the alphabet
 export const animalByLetter = [
     'Alligator',
-    'Bear',
+    'Black Bear',
     'Chicken',
     'Duck',
     'Elephant',
@@ -12,7 +12,7 @@ export const animalByLetter = [
     'Jaguar',
     'Kangaroo',
     'Lioness',
-    'Monkey',
+    'Zonkey',
     'Newt',
     'Octopus',
     'Penguin',
